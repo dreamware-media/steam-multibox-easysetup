@@ -45,3 +45,6 @@ As a quick explantion of what all is going on here, it turns out that Steam does
 However, if you (like I did) simply try to launch a second Steam with this parameter, things start to get... wierd. It turns out that Steam has a few different resources that it shares between instances (notably the Steam Client WebHelper, which will be the thing throwing errors). These shared resources seem to be shared within the current Windows user's enviroments, so we can work around this limitation by running out additional Steam Instance as a seperate user, in that users enviroment. 
 
 As far as I am aware there is no limitation to the number of Steam instances you could run with this method, though each would need to be run by a seperate user account. I have not tested this so, good luck.
+
+> Some SEO terms to help others find this in future:
+> steam networking localhost, steamworks testing multiple accounts, steam multiplayer local testing, steam lobby testing, steam parties local, steamworks same computer, steam testing invites on localhost 
