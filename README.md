@@ -46,5 +46,11 @@ However, if you (like I did) simply try to launch a second Steam with this param
 
 As far as I am aware there is no limitation to the number of Steam instances you could run with this method, though each would need to be run by a seperate user account. I have not tested this so, good luck.
 
+--- 
+### The shoulders of giants
+> - [Freddie W's article](https://tsdo.in/blog/test-steam-networking/) was what originally turned me onto the concept of using `steam_master_ipc_name_override` to run multiple instances
+> - [This video from Theoran](https://www.youtube.com/watch?v=AZNmYGE4kPA) about running multiple games of Dungeon Defenders which pointed me to the multiple accounts solution via 'runas'
+---
+
 > Some SEO terms to help others find this in future:
 > steam networking localhost, steamworks testing multiple accounts, steam multiplayer local testing, steam lobby testing, steam parties local, steamworks same computer, steam testing invites on localhost 
