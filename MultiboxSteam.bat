@@ -1,6 +1,6 @@
 
 :: Sets the username of the alternate windows account that will be running Steam
-SET WINDOWSUSER=testinguser
+SET WINDOWSUSER=<alternate windows username>
 
 :: Sets the IPC name which will be used by Steam (by default is the same as WINDOWSUSER
 SET IPCNAME=%WINDOWSUSER%

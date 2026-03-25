@@ -23,7 +23,7 @@ In order for a second instance of steam to successfully run, it must be running 
 We'll be using a batch file to easily launch the second steam instance, which only requires a slight edit to the file.
 
 1. Download `MultiboxSteam.bat` included in this repository, save it somewhere it's easy to find
-2. Edit `MultiboxSteam.bat` in a text editor and simply replace `<windows username>` with the username of our newly created alternate local account.
+2. Edit `MultiboxSteam.bat` in a text editor and simply replace `<alternate windows username>` with the username of our newly created alternate local account.
 
 ### Step 3: Enjoy!
 And we're done! `MultiboxSteam.bat` can now be run to boot up a secondary steam instance alongside your usual instance of steam.
